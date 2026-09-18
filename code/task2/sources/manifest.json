@@ -1,0 +1,41 @@
+{
+  "repo": "datawhalechina/llm-algo-leetcode",
+  "commit": "518cc451c51a1e86d6e17f304147135d2a8cb379",
+  "files": {
+    "01_Hardware_Math_and_Systems/11_KV_Cache_and_Memory_Growth.ipynb": {
+      "git_blob_sha": "619e5ae211c446f429a731186ff173b207c7ab85",
+      "sha256": "dbca0cfae26777b64beb86cc7b46b1c3887de57dbb2a6d2abbc19a3b8acaefc3",
+      "bytes": 13228
+    },
+    "02_PyTorch_Algorithms/21_Decoding_Strategies.ipynb": {
+      "git_blob_sha": "7216735e76b019a9183306a020aef8bd040968cc",
+      "sha256": "ff0a8e8cdaacd78d63ab6e2fa2547673c4b1820623ece67de22f634cfa14b142",
+      "bytes": 29971
+    },
+    "02_PyTorch_Algorithms/23_Speculative_Decoding.ipynb": {
+      "git_blob_sha": "fa8927a98ccd369768177e23596f6823120eab2e",
+      "sha256": "eff4b51ab888a36d16fff6fc41b67c0f68cd92917a61b5ba3e9b08c195a208a0",
+      "bytes": 21515
+    },
+    "02_PyTorch_Algorithms/35_Multi_Token_Decoding.ipynb": {
+      "git_blob_sha": "6c89d61dc29344fed270a7faccd44409cb791e6b",
+      "sha256": "65f945bd1d9d8eb2606fd39ed8195973fd6983c65fc8b7c5f078d295152bcb14",
+      "bytes": 27214
+    },
+    "02_PyTorch_Algorithms/68_Speculative_Decoding_Benchmark.ipynb": {
+      "git_blob_sha": "63d9eb32ca699dba436a84b1f20c603764613379",
+      "sha256": "463ee40a1a05f3f70cbea3fb7a7e1837eae0d4cbd6de91863731462406cad35c",
+      "bytes": 44995
+    },
+    "LICENSE": {
+      "git_blob_sha": "8e65e47758f9205f21bf6eea07a6e2cf758a0d7b",
+      "sha256": "7d27b30b48942fba2276973f890bcc9c3004c96b34cdb264ee1d7045e41d17d2",
+      "bytes": 792
+    },
+    "LICENSE-CODE": {
+      "git_blob_sha": "6ceb332737f1dab0072974084c5af2d31ea1b84a",
+      "sha256": "93e7948385c0a825752e798bc88f8c5d2ea9e62134ae980cfda99566bda61cd4",
+      "bytes": 800
+    }
+  }
+}

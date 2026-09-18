@@ -1,5 +1,9 @@
 # 讲解文档
 
-按主题解释对应代码的用途、关键步骤、运行结果和常见问题；尽量链接到 `../code/` 的具体示例和 `../learning-docs/` 的学习笔记。
+这里记录每个任务的来源、运行顺序、验证结果及未完成范围：
 
-当前尚未收到需要收录的代码或学习文档，因此这里还没有具体讲解。
+- [Task 0：Attention、MHA/GQA/MLA](task0/README.md)
+- [Task 1：Prefill 与 FlashAttention](task1/README.md)
+- [Task 2：Decode 与生成策略](task2/README.md)
+
+三组验证都只在本地 CPU 环境运行官方参考实现与原测试；打卡文稿是否公开提交是另一件事。
